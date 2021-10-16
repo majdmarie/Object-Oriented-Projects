@@ -1,0 +1,131 @@
+1. - Owner Info:
+Owner Name: Nader
+Registration NO. 101
+Date Of Registration: Fri Jan 22 01:28:32 IST 2021
+Address: Jenin Al-Somood
+Tel: +970-4444444
+- Vehicle Info:
+ModelName: Aqua
+ModelNO: 32500
+Brand: Toyota
+EngineType: Hybrid
+TunkSize: 36.0
+FuelConsumption: 40.0
+Cost for 100 Km: 13.075000000000001 NIS
+Movable Distance: 1440.0
+Number of seats: 5
+Air condition status: OFF
+
+2. - Owner Info:
+Owner Name: Ahmad
+Registration NO. 101
+Date Of Registration: Fri Jan 22 01:28:32 IST 2021
+Address: Jenin Al-Somood
+Tel: +970-4444444
+- Vehicle Info:
+ModelName: Camley
+ModelNO: E100
+Brand: Toyota
+EngineType: Gasoline
+TunkSize: 70.0
+FuelConsumption: 15.15
+Cost for 100 Km: 34.521452145214525 NIS
+Movable Distance: 1060.5
+Number of seats: 5
+Air condition status: OFF
+
+3. - Owner Info:
+Owner Name: Khaled
+Registration NO. 101
+Date Of Registration: Fri Jan 22 01:28:32 IST 2021
+Address: Jenin Al-Somood
+Tel: +970-4444444
+- Vehicle Info:
+ModelName: Odyssey
+ModelNO: S500
+Brand: Honda
+EngineType: Diesel
+TunkSize: 56.0
+FuelConsumption: 11.0
+Cost for 100 Km: 36.54545454545455 NIS
+Movable Distance: 616.0
+Number of seats: 8
+Air condition status: OFF
+Doors Type: Manual
+
+4. - Owner Info:
+Owner Name: Waleed
+Registration NO. 101
+Date Of Registration: Fri Jan 22 01:28:32 IST 2021
+Address: Jenin Al-Somood
+Tel: +970-4444444
+- Vehicle Info:
+ModelName: Ridgeline
+ModelNO: DUG700
+Brand: Honda
+EngineType: Diesel
+TunkSize: 83.279
+FuelConsumption: 7.23
+Cost for 100 Km: 55.60165975103733 NIS
+Movable Distance: 602.10717
+Number of seats: 5
+Air condition status: OFF
+Power: 250
+
+5. - Owner Info:
+Owner Name: Malik
+Registration NO. 101
+Date Of Registration: Fri Jan 22 01:28:32 IST 2021
+Address: Jenin Al-Somood
+Tel: +970-4444444
+- Vehicle Info:
+ModelName: Sienna
+ModelNO: A4
+Brand: Toyota
+EngineType: Gasoline
+TunkSize: 75.0
+FuelConsumption: 9.0
+Cost for 100 Km: 58.111111111111114 NIS
+Movable Distance: 675.0
+Number of seats: 8
+Air condition status: OFF
+Doors Type: Automatic
+
+6. - Owner Info:
+Owner Name: Sami
+Registration NO. 101
+Date Of Registration: Fri Jan 22 01:28:32 IST 2021
+Address: Jenin Al-Somood
+Tel: +970-4444444
+- Vehicle Info:
+ModelName: Tundra
+ModelNO: EDGE500
+Brand: Toyota
+EngineType: Diesel
+TunkSize: 100.0
+FuelConsumption: 6.76
+Cost for 100 Km: 59.46745562130177 NIS
+Movable Distance: 676.0
+Number of seats: 5
+Air condition status: OFF
+Power: 310
+
+7. - Owner Info:
+Owner Name: Shaher
+Registration NO. 101
+Date Of Registration: Fri Jan 22 01:28:32 IST 2021
+Address: Jenin Al-Somood
+Tel: +970-4444444
+- Vehicle Info:
+ModelName: Presage
+ModelNO: BX5000
+Brand: Nissan
+EngineType: Gasoline
+TunkSize: 60.0
+FuelConsumption: 7.0
+Cost for 100 Km: 74.71428571428572 NIS
+Movable Distance: 420.0
+Number of seats: 3
+Air condition status: OFF
+Doors Type: Manual
+
